@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Explaining the C++ STL with code
 ---
 
